@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 *{
     margin: 0px;
@@ -28,18 +30,19 @@
 
   .screen{
     background-color: aqua;
-    width: 23%;
-    height: 140px;
+    width: 290px;
+    height: 100px;
     margin-top: 5px;
     font-size: 2rem;
     overflow-wrap: break-word;
     border-radius: 10px 10px 0px 0px;
+    border: 2px solid red;
   }
   
 
 .buttons{
   background-color: black;
-  width: 23%;
+  width: 290px;
   border-radius: 0px 0px 10px 10px;
 }
 
