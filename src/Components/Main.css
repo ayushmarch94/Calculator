@@ -13,6 +13,7 @@
   justify-content: center;
   align-items: center;
   background-color: slateblue;
+  height: 500px;
 }
   .navbar{
     width: 100%;
@@ -51,7 +52,9 @@ button{
   height: 50px;
   width: 50px;
   border-radius: 50px;
-  background-color: slategray;
+  background-color: slategrey;
+  color:  white;
+  font-weight: bold;
 }
 button:active{
   padding: 10px;
